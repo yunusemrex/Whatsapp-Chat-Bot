@@ -3,7 +3,7 @@
         Bu Mini Proje öğrenilen bilgileri pekiştirme amacı ile yapılmıştır.
         Kullanılması Halinde Sorumluluk kullanan kişiye aittir!
     
-#    KULLANIM:
+#    Kullanım:
         1- Whatsapp Chat Botu ile seçtiğiniz kişi çevrim içi olduğunda
         o kişiye otomatik olarak mesaj gönderebilirsiniz.
 
